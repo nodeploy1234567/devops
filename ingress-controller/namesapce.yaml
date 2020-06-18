@@ -1,0 +1,13 @@
+##########################################################################
+#Author:                     zisefeizhu
+#QQ:                         2********0
+#Date:                       2020-06-15
+#FileName:                   ingress-controller-namesapce.yaml
+#URL:                        https://www.cnblogs.com/zisefeizhu/
+#Description:                The test script
+#Copyright (C):              2020 All rights reserved
+###########################################################################
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ingress-controller
